@@ -39,7 +39,7 @@ inverse=np.linalg.inv(matrix)
 print(inverse)
 
 ## Output:
-![exp3](https://github.com/user-attachments/assets/ed0617a3-18c0-4246-9a23-ec47c1ff7c84)
+! [output](exp3.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
