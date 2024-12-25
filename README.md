@@ -32,14 +32,15 @@ Display the solution by using print function
 
 import numpy as np
 
-matrix=np.array([[6,2,3],[3,1,1],[10,3,4]])
+matrix=np.array([[6,2,3],[3,1,1],[10,3,4])
 
 inverse=np.linalg.inv(matrix)
 
 print(inverse)
 
 ## Output:
-! [output](exp3.png)
+![output](exp3.png)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
